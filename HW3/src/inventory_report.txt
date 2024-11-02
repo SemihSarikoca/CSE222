@@ -1,0 +1,11 @@
+Electronics Shop Inventory Report
+Generated on: 2024-03-28
+---------------------------------------
+| No. | Category | Name | Price | Quantity |
+---------------------------------------
+|1  | Laptop       | mac          | $1.500,00$ | 4      |
+---------------------------------------
+Summary:
+- Total Number of Devices: 1
+- Total Inventory Value: 6.000,00$
+End of Report
